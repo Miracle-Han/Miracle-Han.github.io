@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Miracle / Student"
+locale                   : "CN"
+title                    : "Miracle’s Personal Academic Page"
 title_separator          : "-"
 name                     : &name "Miracle-Han"
 description              : &description "personal description"
