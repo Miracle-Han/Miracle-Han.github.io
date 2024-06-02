@@ -29,12 +29,15 @@ redirect_from:
 Education 🎓
 ======
 **2023.09 - 至今 伦敦帝国理工学院**
+
 **理学硕士** 人类与生物机器人
 
 **2022.07 - 2022.08 帝国理工学院暑期线上学术课程**
+
 [Innovating the Future with Robotics](https://www.imperial.ac.uk/continuing-professional-development/short-courses/online-courses/masterclasses/future-with-robotics/)
 
 **2019.09 - 2023.06 福州大学 & 爱尔兰梅努斯大学** 
+
 **工程学学士** 自动化
 **理学学士** 机器人与智能设备
 
