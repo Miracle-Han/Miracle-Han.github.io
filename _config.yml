@@ -10,7 +10,7 @@
 locale                   : "CN"
 title                    : "Miracle’s Personal Academic Page"
 title_separator          : "-"
-name                     : &name "Miracle-Han"
+name                     : &name "韩小龙-Miracle"
 description              : &description "personal description"
 url                      : https://miracle-han.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "head.jpg"
   name             : "Miracle-Han"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master student of Human and Biological Robotic"
   location         : "Xiamen"
   employer         : " Imperial College London"
   uri              : # URL
