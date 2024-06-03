@@ -275,7 +275,7 @@ defaults:
       path: ""
       type: Intership
     values:
-      layout: Intership
+      layout: single
       author_profile: true
       share: true
 
