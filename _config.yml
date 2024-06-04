@@ -302,16 +302,6 @@ defaults:
       share: true
 
 
-
-  # _Intership
-  - scope:
-      path: ""
-      type: Intership
-    values:
-      layout: single
-      author_profile: true
-      share: true
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
