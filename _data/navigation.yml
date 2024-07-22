@@ -1,5 +1,12 @@
 # main links links
 main:
+
+  - title: "Course Record"
+    url: /CourseRecords/
+
+  - title: "Project"
+    url: /projects/
+
   - title: "Publications"
     url: /publications/
 
@@ -17,14 +24,11 @@ main:
     
 
 
-  - title: "Course Record"
-    url: /CourseRecords/
+
 
   - title: "Intership"
     url: /Intership/
 
-  - title: "Project"
-    url: /projects/
 
   # - title: "CV"
   #   url: /cv/
