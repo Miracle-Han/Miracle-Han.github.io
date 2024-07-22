@@ -1,5 +1,17 @@
 # main links links
 main:
+
+  - title: "Intership"
+    url: /Intership/
+
+  - title: "Course Record"
+    url: /CourseRecords/
+
+    
+
+  - title: "Project"
+    url: /projects/
+
   - title: "Publications"
     url: /publications/
 
@@ -9,8 +21,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+   - title: "Portfolio"
+     url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -18,11 +30,6 @@ main:
   # - title: "CV"
   #   url: /cv/
 
-  - title: "Course Record"
-    url: /CourseRecords/
 
-  - title: "Intership"
-    url: /Intership/
 
-  - title: "Project"
-    url: /projects/
+
