@@ -1,10 +1,10 @@
 ---
-title: "3D打印颅骨缺损脑保护装置专利研究"
+title: "A Vertically Stacked Dual-Parameter Sensor for Simultaneous Temperature and Pressure Detection"
 collection: teaching
 type: "Research"
-permalink: /projects/3D打印颅骨缺损脑保护装置专利研究
+permalink: /projects/A Vertically Stacked Dual-Parameter Sensor for Simultaneous Temperature and Pressure Detection
 venue: "Fuzhou University, Research Center of Joint Intelligent Medical Engineering"
-date: 2021-11-01
+date: 2023-03-01
 location: "Fuzhou, China"
 ---
 
