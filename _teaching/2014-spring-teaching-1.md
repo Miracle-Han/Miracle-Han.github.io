@@ -1,11 +1,11 @@
 ---
 title: "第七届中国大学生工程实践与创新能力大赛"
 collection: teaching
-type: "竞赛"
+type: "Competition"
 permalink: /projects/第七届中国大学生工程实践与创新能力大赛
-# venue: "University 1, Department"
-date: 2020.10-2021.11
-# location: "City, Country"
+venue: "Fuzhou University"
+date: 2021-11-01
+location: "Shanghai, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
