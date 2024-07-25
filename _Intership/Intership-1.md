@@ -1,6 +1,6 @@
 ---
-title: "Intership item number 1"
-excerpt: "Short description of Intership item number 1<br/><img src='/images/500x300.png'>"
+title: "四足机器人运动控制算法/机械设计 实习生"
+excerpt: "杭州云深处科技有限公司 2023.03.07-06.29"
 collection: Intership
 ---
 
