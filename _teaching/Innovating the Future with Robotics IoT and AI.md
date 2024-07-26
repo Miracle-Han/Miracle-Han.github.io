@@ -2,7 +2,7 @@
 title: "帝国理工学院 - 暑校： Innovating the Future with Robotics IoT and AI"
 collection: teaching
 type: "Research"
-permalink: /projects/Summer School
+permalink: /projects/SummerSchool
 venue: "Fuzhou University, Imperial College"
 date: 2022-07-01
 location: "Fuzhou, China"
@@ -47,7 +47,7 @@ location: "Fuzhou, China"
 通过插值方法生成从初始位置到目标位置的中间关节角度，确保运动的平滑性。
 - **线性插值：** 
 对于每个关节，从初始位置到目标位置进行线性插值。
-**q(t) = q_initial + t/T(q_target - q_initial)** 
+-  **q(t) = q_initial + t/T(q_target - q_initial)** 
 
 ### 3. 生成轨迹
 将插值后的关节角度序列转换为轨迹点，形成完整的轨迹序列。
