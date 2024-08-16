@@ -63,7 +63,7 @@ Education 🎓
 
 Honor 🎖️
 ======
-1. 帝国理工学院 **[生物工程系部门奖学金](https://www.imperial.ac.uk/study/fees-and-funding/scholarships-search/department-of-bioengineering-scholarship-msc-20232024.php)** 部门唯一
+1. 帝国理工学院 **[生物工程系部门奖学金](https://www.imperial.ac.uk/study/fees-and-funding/scholarships-search/department-of-bioengineering-scholarship-msc-20232024.php)**
 2. 福州大学 2023 届 **优秀毕业生**
 3. 爱尔兰梅努斯大学 **一等荣誉学位**
 4. 2022.10 获得福州大学 **综合二等奖学金**
