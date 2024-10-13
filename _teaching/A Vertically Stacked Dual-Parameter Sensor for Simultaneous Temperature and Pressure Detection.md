@@ -9,10 +9,11 @@ location: "Fuzhou, China"
 ---
 <br>
 
-### 完整论文：[Click Here](https://ieeexplore.ieee.org/document/10040603)   
-### 发表时间：2023.03
-### 出版期刊：IEEE Sensor Journal
-### 论文DOI：10.1109/JSEN.2023.3241794
+# 参考信息
+- 完整论文：[Click Here](https://ieeexplore.ieee.org/document/10040603)   
+- 发表时间：2023.03
+- 出版期刊：IEEE Sensor Journal
+- 论文DOI：10.1109/JSEN.2023.3241794
 
 <iframe src="https://docs.google.com/viewer?url=https://github.com/Miracle-Han/Miracle-Han.github.io/raw/master/files/A_Vertically_Stacked_Dual-Parameter_Sensor_for_Simultaneous_Temperature_and_Pressure_Detection.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
 

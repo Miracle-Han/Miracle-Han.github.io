@@ -9,10 +9,11 @@ location: "Fuzhou, China"
 ---
 <br>
 
-### 完整论文：[Click Here](https://www.mdpi.com/1996-1944/14/23/7112)   
-### 发表时间：2021.11
-### 出版期刊：Materials
-### 论文DOI：10.3390/ma14237112
+# 参考信息
+- 完整论文：[Click Here](https://www.mdpi.com/1996-1944/14/23/7112)   
+- 发表时间：2021.11
+- 出版期刊：Materials
+- 论文DOI：10.3390/ma14237112
 
 <iframe src="https://docs.google.com/viewer?url=https://github.com/Miracle-Han/Miracle-Han.github.io/raw/master/files/materials-14-07112-v2.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
 
